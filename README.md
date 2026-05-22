@@ -1,16 +1,23 @@
-## Hi there 👋
+# Abbas A.
 
-<!--
-**AbbosDev/AbbosDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Application Systems Engineer specializing in enterprise application development, .NET systems, SQL optimization, workflow automation, CI/CD, and secure access management.
 
-Here are some ideas to get you started:
+I build and support internal business-critical systems across healthcare, finance, compliance, and reporting environments.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Core Strengths
+
+- Enterprise application development with .NET, ASP.NET MVC, C#, Angular, and SQL
+- SQL Server, Oracle, SSIS, SSRS, and data pipeline support
+- Workflow automation using Infor Process Automation
+- CI/CD with GitHub Actions
+- Role-based access control, authentication, authorization, and secure application support
+- Production support, deployments, refactoring, and technical leadership
+
+## Featured Portfolio
+
+- Enterprise Contract Tracking System Case Study
+- Payroll Accrual Reporting System Case Study
+- Pricing Transparency ETL Pipeline Case Study
+- Secure Access Management / RBAC Demo
+- GitHub Actions CI/CD Demo
+
